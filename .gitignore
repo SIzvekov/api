@@ -1,0 +1,9 @@
+/nbproject
+.DS_Store
+Icon
+Thumbs.db
+.idea
+#ignore override files, like override.sys.config.php
+override.*
+/log/*
+!/log/.emptyFolder
